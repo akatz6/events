@@ -10,6 +10,7 @@ Vue.component('app-age', UserAge);
 
 //Event bus to centralize data being passed
 //between components
+//
 // export const eventBus = new Vue();
 
 
